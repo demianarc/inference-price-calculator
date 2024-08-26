@@ -348,7 +348,7 @@ const InferencePriceCalculator = () => {
               </Table>
             </TableContainer>
             <Typography variant="body2" align="right" sx={{ fontStyle: 'italic' }}>
-              Dev by <Link href="https://x.com/demian_ia" target="_blank" rel="noopener noreferrer">Dylan</Link>
+              Dev by <Link href="" target="_blank" rel="noopener noreferrer">Dylan</Link>
             </Typography>
           </CardContent>
         </Card>
